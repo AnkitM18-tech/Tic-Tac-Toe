@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 30 13:57:39 2020
-
-@author: OCAC
-"""
 board=[" " for x in range(10)]
 
 def insertPosition(letter,pos):
